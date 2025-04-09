@@ -4,7 +4,7 @@ This repository contains a Cypress-based test automation framework designed for 
 
 ---
 
-## 📆 Project Setup
+## Project Setup
 
 ### Prerequisites
 
@@ -24,7 +24,7 @@ npm install
 
 ---
 
-## 💪 Running Cypress Tests
+## Running Cypress Tests
 
 ### Run in Debug (headed) Mode
 
@@ -161,6 +161,4 @@ automation-course/
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-Happy testing! 🚀
 
